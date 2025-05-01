@@ -1,5 +1,29 @@
-For this project, I used AI tools to help speed up the initial setup and offer guidance when needed. However, all customizations and adjustments were made by me to ensure the final product aligns with the specific needs of the project.
+# Recipe Main Page
 
-The AI was a tool to help me work more efficiently, but the final result reflects my personal input and work.
+A simple web page to showcase recipes, developed as part of my beginner web development practice.
 
-Hope you enjoy exploring the project!
+## 🛠️ Tech Stack
+- HTML
+- CSS
+
+## 📦 Installation
+
+1. **Download or Clone** this repository:
+   ```bash
+   git clone https://github.com/yourusername/recipe-main-page.git
+Run the Project:
+
+Open the index.html file in your browser to view the recipe page.
+
+👥 Features
+Simple, clean layout to display recipes.
+
+Organized sections for recipe details (e.g., ingredients, instructions, etc.).
+
+Responsive design for a better viewing experience on different screen sizes.
+
+📄 License
+This project is for personal practice and learning purposes.
+
+🙋 Author
+Jun Alvior – property360-2
